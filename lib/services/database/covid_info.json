@@ -1,0 +1,72 @@
+{
+    "need to know": [
+        "Anyone can have mild to severe symptoms.",
+        "Older adults and people who have severe underlying medical conditions like heart or lung disease or diabetes seem to be at higher risk for developing more serious complications from COVID-19 illness."
+    ],
+    "Watch for symptoms": [
+        "People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. Symptoms may appear 2-14 days after exposure to the virus. People with these symptoms may have COVID-19:",
+        [
+            "Fever or chills",
+            "Cough",
+            "Shortness of breath or difficulty breathing",
+            "Fatigue",
+            "Muscle or body aches",
+            "Headache",
+            "New loss of taste or smell",
+            "Sore throat",
+            "Congestion or runny nose",
+            "Nausea or vomiting",
+            "Diarrhea"
+        ],
+        "This list does not include all possible symptoms. CDC will continue to update this list as we learn more about COVID-19."
+    ],
+    "When to seek emergency medical attention": [
+        "Look for emergency warning signs* for COVID-19. If someone is showing any of these signs, seek emergency medical care immediately:",
+        [
+            "Trouble breathing",
+            "Persistent pain or pressure in the chest",
+            "New confusion",
+            "Inability to wake or stay awake",
+            "Bluish lips or face"
+        ],
+        "This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.",
+        "Call 911 or call ahead to your local emergency facility: Notify the operator that you are seeking care for someone who has or may have COVID-19."
+    ],
+    "What is the difference between Influenza (Flu) and COVID-19?": [
+        "Influenza (Flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. COVID-19 is caused by infection with a new coronavirus (called SARS-CoV-2), and flu is caused by infection with influenza viruses.",
+        "COVID-19 seems to spread more easily than flu and causes more serious illnesses in some people. It can also take longer before people show symptoms and people can be contagious for longer.",
+        "Because some of the symptoms of flu and COVID-19 are similar, it may be hard to tell the difference between them based on symptoms alone, and testing may be needed to help confirm a diagnosis."
+    ],
+    "FACT: Vitamin and mineral supplements cannot cure COVID-19": ["Micronutrients, such as vitamins D and C and zinc, are critical for a well-functioning immune system and play a vital role in promoting health and nutritional well-being.  There is currently no guidance on the use of micronutrient supplements as a treatment of COVID-19."],
+    "FACT: Studies show hydroxychloroquine does not have clinical benefits in treating COVID-19": ["Hydroxychloroquine or chloroquine, a treatment for malaria, lupus erythematosus, and rheumatoid arthritis, has been under study as a possible treatment for COVID-19. Current data shows that this drug does not reduce deaths among hospitalised COVID-19 patients, nor help people with moderate disease.* The use of hydoxychloroquine and chloroquine is accepted as generally safe for patients with malaria and autoimmune diseases, but its use where not indicated and without medical supervision can cause serious side effects and should be avoided."],
+    "Is dexamethasone a treatment for all COVID-19 patients?": [
+        "Dexamethasone should be reserved for patients who need it most. It should not be stockpiled.",
+        "It provided no improvement for patients with mild symptoms. Dexamethasone is a corticosteroid used for its anti-inflammatory and immunosuppressive effects. For some COVID-19 patients on ventilators, a daily 6 mg dose of dexamethasone for 10 days improved their health"
+    ],
+    "FACT: People should NOT wear masks while exercising": [
+        "People should NOT wear masks when exercising, as masks may reduce the ability to breathe comfortably.",
+        "Sweat can make the mask become wet more quickly which makes it difficult to breathe and promotes the growth of microorganisms. The important preventive measure during exercise is to maintain physical distance of at least one meter from others."
+    ],
+    "Fact: Water or swimming does not transmit the COVID-19 virus": [
+        "The COVID-19 virus does not transmit through water while swimming. However, the virus spreads between people when someone has close contact with an infected person.",
+        "WHAT YOU CAN DO:",
+        "Avoid crowds and maintain at least a 1-metre distance from others, even when you are swimming or at swimming areas. Wear a mask when you’re not in the water and you can’t stay distant. Clean your hands frequently, cover a cough or sneeze with a tissue or bent elbow, and stay home if you’re unwell."
+    ],
+    "FACT: The likelihood of shoes spreading COVID-19 is very low": ["The likelihood of COVID-19 being spread on shoes and infecting individuals is very low. As a precautionary measure, particularly in homes where infants and small children crawl or play on floors, consider leaving your shoes at the entrance of your home. This will help prevent contact with dirt or any waste  that could be carried on the soles of shoes."],
+    "FACT: The coronavirus disease (COVID-19) is caused by a virus, NOT by bacteria": [
+        "The virus that causes COVID-19 is in a family of viruses called Coronaviridae. Antibiotics do not work against viruses.",
+        "Some people who become ill with COVID-19 can also develop a bacterial infection as a complication. In this case, antibiotics may be recommended by a health care provider.",
+        "There is currently no licensed medication to cure COVID-19. If you have symptoms, call your health care provider or COVID-19 hotline for assistance."
+    ],
+    "FACT: The prolonged use of medical masks* when properly worn, DOES NOT cause CO2 intoxication nor oxygen deficiency": [
+        "The prolonged use of medical masks can be uncomfortable. However, it does not lead to CO2 intoxication nor oxygen deficiency. While wearing a medical mask, make sure it fits properly and that it is tight enough to allow you to breathe normally. Do not re-use a disposable mask and always change it as soon as it gets damp.",
+        " Medical masks (also known as surgical masks) are flat or pleated; they are affixed to the head with straps or have ear loops."
+    ],
+    "FACT: Most people who get COVID-19 recover from it":["Most people who get COVID-19 have mild or moderate symptoms and can recover thanks to supportive care. If you have a cough, fever and difficulty breathing seek medical care early - call your health facility by telephone first. If you have fever and live in an area with malaria or dengue seek medical care immediately."],
+    "FACT: Drinking alcohol does not protect you against COVID-19 and can be dangerous":["The harmful use of alcohol increases your risk of health problems."],
+    "FACT: Thermal scanners CANNOT detect COVID-19":["Thermal scanners are effective in detecting people who have a fever (i.e. have a higher than normal body temperature). They cannot detect people who are infected with COVID-19. There are many causes of fever. Call your healthcare provider if you need assistance or seek immediate medical care if you have fever and live in an area with malaria or dengue."],
+    "FACT: Adding pepper to your soup or other meals DOES NOT prevent or cure COVID-19":["Hot peppers in your food, though very tasty, cannot prevent or cure COVID-19. The best way to protect yourself against the new coronavirus is to keep at least 1 metre away from others and to wash your hands frequently and thoroughly. It is also beneficial for your general health to maintain a balanced diet, stay well hydrated, exercise regularly and sleep well."],
+    "FACT: COVID-19 is NOT transmitted through houseflies":["To date, there is no evidence or information to suggest that the COVID-19 virus transmitted through houseflies. The virus that cause COVID-19 spreads primarily through droplets generated when an infected person coughs, sneezes or speaks. You can also become infected by touching a contaminated surface and then touching your eyes, nose or mouth before washing your hands. To protect yourself, keep at least 1-metre distance from others and disinfect frequently-touched surfaces. Clean your hands thoroughly and often and avoid touching your eyes, mouth and nose."],
+    "FACT: Spraying and introducing bleach or another disinfectant into your body WILL NOT protect you against COVID-19 and can be dangerous":["Do not under any circumstance spray or introduce bleach or any other disinfectant into your body. These substances can be poisonous if ingested and cause irritation and damage to your skin and eyes.",
+    "Bleach and disinfectant should be used carefully to disinfect surfaces only. Remember to keep chlorine (bleach) and other disinfectants out of reach of children."]
+}
