@@ -25,17 +25,17 @@ class _HomeBgState extends State<HomeBg> {
   @override
   void initState() {
     super.initState();
-    myTimer = Timer.periodic(
-      Duration(seconds: 3),
-      (timer) {
-        setState(
-          () {
-            if (this.image == 5) this.image = 0;
-            this.image += 1;
-          },
-        );
-      },
-    );
+    // myTimer = Timer.periodic(
+    //   Duration(seconds: 3),
+    //   (timer) {
+    //     setState(
+    //       () {
+    //         if (this.image == 5) this.image = 0;
+    //         this.image += 1;
+    //       },
+    //     );
+    //   },
+    // );
     typeSentence();
   }
 
@@ -70,6 +70,7 @@ class _HomeBgState extends State<HomeBg> {
       alignment: Alignment.center,
       children: [
         Container(
+        
           width: screenSize.width,
           height: screenSize.height,
           child: Image.asset(
